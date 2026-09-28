@@ -29,7 +29,7 @@ After downloading the files, place them in `%appdata%/Code/User/`.
 ### Or
 * cd $APPDATA/Code/User
 * git init
-* git remote add origin https://github.com/tominitt/VSCode-Settings.git
+* git remote add origin https://github.com/TomPugh808/VSCode-Settings.git
 * git pull
 * git checkout master -f
 * git branch --set-upstream-to origin/master
@@ -39,7 +39,7 @@ After downloading the files, place them in `~/.config/Code/User`.
 ### Or
 * cd ~/.config/Code/User
 * git init
-* git remote add origin https://github.com/tominitt/VSCode-Settings.git
+* git remote add origin https://github.com/TomPugh808/VSCode-Settings.git
 * git pull
 * git checkout master -f
 * git branch --set-upstream-to origin/master
